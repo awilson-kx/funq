@@ -1,6 +1,0 @@
-{
-  "name": "funq",
-  "tagline": "Source files for \"Fun Q: A Functional Introduction to Machine Learning in Q\"",
-  "body": "# Fun Q: A Functional Introduction to Machine Learning in Q\r\n\r\nclone this project and start q with `q fun.q`. you can then read the comments and run the examples one by one. topics include:\r\n\r\n## Plotting\r\n## Least Squares Regression\r\n## Gradient Descent\r\n## Logistic Regression\r\n## One vs All Logistic Regression\r\n## Neural Networks\r\n## K-Means/Medians Clustering\r\n## Hierarchical Clustering Analysis (HCA)\r\n## Expectation Maximization (EM)\r\n## K-Nearest Neighbors (kNN)\r\n## Markov Clustering Algorithm (MCL)\r\n## Naive Bayes\r\n## Decision Tree (ID3)\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
