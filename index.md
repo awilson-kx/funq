@@ -4,7 +4,25 @@ clone this project and start q with any of the following:
 
 `q fun.q`
 
-`q plt.q`
+`q plot.q`
+
+`q kmeans.q`
+
+`q knn.q`
+
+`q hac.q`
+
+`q em.q`
+
+`q nb.q`
+
+`q tfidf.q`
+
+`q decisiontree.q`
+
+`q adaboost.q`
+
+`q randomforest.q`
 
 `q linreg.q`
 
@@ -12,13 +30,40 @@ clone this project and start q with any of the following:
 
 `q nn.q`
 
+`q hiragana.q`
+
 `q recommend.q`
 
-`q hiragana.q`
+`q pagerank.q`
+
+`q supportvectormachine.q`
+
 
 you can then read the comments and run the examples one by one. topics include:
 
 ## Plotting
+
+## K-Nearest Neighbors (KNN)
+
+## Binary Classification Evaluation Metrics
+
+## K-Means/Medians/Medoids Clustering
+
+## Hierarchical Agglomerative Clustering (HAC)
+
+## Expectation Maximization (EM)
+
+## Naive Bayes
+
+## Vector Space Model (tf-idf)
+
+## Decision Tree (ID3,C4.5,CART)
+
+## Random Forest (and Boosted Aggregating BAG)
+
+## Discrete Adaptive Boosting (AdaBoost)
+
+## Regularization (L1,L2)
 
 ## Least Squares Regression
 
@@ -26,30 +71,19 @@ you can then read the comments and run the examples one by one. topics include:
 
 ## Logistic Regression
 
-## Binary Classification Evaluation Metrics
+## One vs All
 
-## One vs All Logistic Regression
+## Neural Network Classification
 
-## Neural Networks
-
-## K-Means/Medians Clustering
-
-## Hierarchical Clustering Analysis (HCA)
-
-## Expectation Maximization (EM)
-
-## K-Nearest Neighbors (kNN)
-
-## Markov Clustering Algorithm (MCL)
-
-## Naive Bayes
-
-## Decision Tree (ID3,C4.5)
-
-## Google PageRank
+## Neural Network Regression
 
 ## Content-Based Filtering (Recommender Systems)
 
 ## Collaborative Filtering (Recommender Systems)
 
-## Vector Space Model (tf-idf)
+## Google PageRank
+
+## Support Vector Machine (SVM)
+
+## Markov Clustering Algorithm (MCL)
+
